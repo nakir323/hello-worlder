@@ -1,5 +1,5 @@
 {
-  "name": "hello-worlder",
+  "name": "hello-world-executer",
   "version": "1.0.0",
   "description": "",
   "files": [
@@ -27,7 +27,7 @@
     "npm": ">= 6.12"
   },
   "bin": {
-    "hello-worlder": "dist/bin/index.js"
+    "hello-world-executer": "dist/bin/index.js"
   },
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts"
