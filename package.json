@@ -1,9 +1,10 @@
 {
   "name": "hello-world-executer",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "",
   "files": [
-    "dist", "src"
+    "dist",
+    "src"
   ],
   "main": "dist/lib/index.js",
   "scripts": {
@@ -25,9 +26,6 @@
   "engines": {
     "node": ">= 12",
     "npm": ">= 6.12"
-  },
-  "bin": {
-    "hello-world-executer": "dist/bin/index.js"
   },
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts"
